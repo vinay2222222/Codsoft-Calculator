@@ -16,13 +16,6 @@ A simple yet elegant calculator application built using HTML, CSS, and JavaScrip
 - **CSS** – Styling and layout
 - **JavaScript** – Core logic and interactivity
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
-> *(Make sure to add actual screenshots in a folder named `screenshots/` in your repo.)*
 
 ## 🚀 Getting Started
 
